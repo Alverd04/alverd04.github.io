@@ -1,5 +1,5 @@
 import React from 'react'
-import './navBar.scss'
+import './stylesheets/navBar.scss'
 const navBar = () => {
     /* When the user scrolls down, hide the navbar. When the user scrolls up, show the navbar */
     var prevScrollpos = window.pageYOffset;
